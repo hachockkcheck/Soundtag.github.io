@@ -1,1 +1,1 @@
-sndtags.github.io
+sandtagrush.github.io
